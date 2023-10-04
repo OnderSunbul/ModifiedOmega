@@ -1,0 +1,8 @@
+itemfile=Idata.csv
+theta=0,1
+dlog=1
+npersons=10000
+codes=ABCDE
+omit=X
+notreached=N
+outfile=Onderk42_80Items

@@ -1,0 +1,25 @@
+Scaling constant = 1.7020
+Abilities are sampled NID: ~(    0.00     ,    0.00)
+
+Item a-Param. b-Param. c-Param.  Omit(p)    NR(p) Answers  N(opt) Codes 
+
+Item descriptives
+A: Mean =    0.      SD =     0.    
+B: Mean =    0.      SD =     0.    
+C: Mean =    0.      SD =     0.    
+
+
+Item Exposure, Omits, and Not Reached
+Item    N-Valid N(Omit)    N(NR)   Total
+ 0  raw responses saved to .DAT
+ 0  scored responses saved to .RSP
+ 0  item records saved to .ITM
+Mean(Theta)=     0.0000
+SD(Theta)  =     0.0000
+Min(Theta) =  9999.0000
+Max(Theta) = -9999.0000
+
+Mean(X)=     0.0000
+SD(X)  =     0.0000
+Min(X) = 99999.0000
+Max(X) =-99999.0000
